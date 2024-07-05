@@ -1,0 +1,361 @@
+.main{
+    height: 300px;
+    width: 200px;
+    background-image: linear-gradient(#b614B0 ,#DBD65C);
+    border: 1px solid #000000;
+    box-shadow: 0px 0px 100px red;
+    border-radius: 10px;
+}
+.photo1{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQf2tHR30YW6bis67C8rbnUGhr2v_vf41qYw&s);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    border-radius:50%;
+    background-repeat: round;
+    left: 56px;
+    top: 14px;
+    position: absolute;
+    box-shadow: 0px 0px 100px;
+}
+.name{
+    font-size:  small;
+    position: absolute;
+    top: 130px;
+    left: 62px;
+    color: white;
+    font-weight: 50px;
+    box-shadow: 5px 5px 10px black;
+    font-family: sans-serif;
+}
+.box{
+    height: 100px;
+    width: 180px;
+    border: 1px solid black;
+    position: absolute;
+    top: 200px;
+    left: 18px;
+    background-color: darkmagenta;
+    box-shadow: 0px 0px 70px black ;
+}
+/* .king{
+    height: 20px;
+    width: 40px;
+    border: 1px solid black;
+    background-color: coral;
+    position: absolute;
+    top: 100px;
+    border-radius: 50px;
+} */
+.king2{
+    position: absolute;
+    left: 150px;
+    /* top: 120px; */
+    color:black;
+    /* font-size: 19px; */
+    font-family:cursive;
+}
+.matches{
+    top:203px ;
+    position: absolute;
+    left:22px ;
+    color: aqua;
+}
+.wickets{
+    position: absolute;
+    top: 220px;
+    left: 22px;
+    color: aqua;
+}
+.virat{
+    position: absolute;
+    top: 167px;
+    left: 74px;
+    color: white;
+    box-shadow: 3px 5px 10px black;
+}
+.name::first-letter{ font-size: 25px;  }
+
+.main2{
+    height: 300px;
+    width: 200px;
+    position: absolute;
+    left: 230px;
+    background-image: linear-gradient(blue, gold);
+    border: 1px solid #000000;
+    top: 9px;
+    box-shadow: 0px 0px 100px skyblue;
+    border-radius: 10px;
+}
+.hitman{
+    top: 2px;
+    left: 135px;
+    position: absolute;
+    color: gold;
+    font-family: cursive;
+    font-size: 14px;
+}
+.photo2{
+    background-image: url(/WhatsApp\ Image\ 2024-07-04\ at\ 1.20.04\ PM.jpeg);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    border-radius:50%;
+    background-repeat: round;
+    left: 48px;
+    top: 5px;
+    position: absolute;
+    box-shadow: 0px 0px 70px black;
+}
+.name2{
+    font-size:  small;
+    position: absolute;
+    top: 120px;
+    left: 47px;
+    color: white;
+    font-weight: 50px;
+    box-shadow: 5px 5px 10px black;
+    font-family: sans-serif;
+}
+.box2{
+    height: 100px;
+    width: 180px;
+    border: 1px solid black;
+    position: absolute;
+    top: 190px;
+    left: 10px;
+    background-color: darkmagenta;
+    box-shadow: 0px 0px 70px black ;
+}
+.matches2{
+    top:193px ;
+    position: absolute;
+    left:14px ;
+    color: aqua;
+}
+.wickets2{
+    position: absolute;
+    top: 210px;
+    left: 14px;
+    color: aqua;
+}
+.rohit{
+    position: absolute;
+    top: 155px;
+    left: 72px;
+    color: white;
+    box-shadow: 3px 5px 10px black;
+}
+.name2::first-letter{ font-size: 25px;  }
+
+.main3{
+    height: 300px;
+    width: 200px;
+    position: absolute;
+    left: 450px;
+    background-image: linear-gradient(yellow, rgb(0, 102, 255));
+    border: 1px solid #000000;
+    top: 9px;
+    box-shadow: 0px 0px 100px yellow;
+    border-radius: 10px;
+}
+.thala{
+    position: absolute;
+    left: 135px;
+    font-family: cursive;
+    color: green;
+}
+.photo3{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkXs54uXyP1ejmjpVXg7dLcc_H0o_4TVgiAQlYhaVhBlW9C5gd18Pl11imlzmL8EIICM4&usqp=CAU);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    border-radius:50%;
+    background-repeat: round;
+    left: 48px;
+    top: 5px;
+    position: absolute;
+    box-shadow: 0px 0px 70px black;
+}
+.name3{
+    font-size:  small;
+    position: absolute;
+    top: 120px;
+    left: 65px;
+    color: white;
+    font-weight: 50px;
+    box-shadow: 5px 5px 10px black;
+    font-family: sans-serif;
+}
+.box3{
+    height: 100px;
+    width: 180px;
+    border: 1px solid black;
+    position: absolute;
+    top: 190px;
+    left: 10px;
+    background-color: darkmagenta;
+    box-shadow: 0px 0px 70px black ;
+}
+.matches3{
+    top:193px ;
+    position: absolute;
+    left:14px ;
+    color: aqua;
+}
+.wickets3{
+    position: absolute;
+    top: 210px;
+    left: 14px;
+    color: aqua;
+}
+.Dhoni{
+    position: absolute;
+    top: 155px;
+    left: 72px;
+    color: white;
+    box-shadow: 3px 5px 10px black;
+}
+.name3::first-letter{ font-size: 25px;  }
+
+
+.main4{
+    height: 300px;
+    width: 200px;
+    background-image: linear-gradient(red, orange);
+    border: 1px solid #000000;
+    position: absolute;
+    left: 670px;
+    top: 10px;
+    box-shadow: 0px 0px 100px red;
+    border-radius: 10px;
+}
+.gabbar{
+    position: absolute;
+    color: white;
+    font-family: cursive;
+    left: 135px;
+}
+.photo4{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcoyRuiEt6XDodsnFH8_JwpyGGZpxUVN0pSvCSQJQw_9yOlXM95XuWXKFw4L_aqJ20y9A&usqp=CAU);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    border-radius:50%;
+    background-repeat: round;
+    left: 49px;
+    top: 4px;
+    position: absolute;
+    box-shadow: 0px 0px 100px;
+}
+.name4{
+    font-size:  small;
+    position: absolute;
+    top: 120px;
+    left:35px;
+    color: white;
+    font-weight: 50px;
+    box-shadow: 5px 5px 10px black;
+    font-family: sans-serif;
+}
+.box4{
+    height: 100px;
+    width: 180px;
+    border: 1px solid black;
+    position: absolute;
+    top: 190px;
+    left: 10px;
+    background-color: darkmagenta;
+    box-shadow: 0px 0px 70px black ;
+}
+.matches4{
+    top:193px ;
+    position: absolute;
+    left:14px ;
+    color: aqua;
+}
+.wickets4{
+    position: absolute;
+    top: 210px;
+    left: 14px;
+    color: aqua;
+}
+.SHIKHAR{
+    position: absolute;
+    top: 155px;
+    left: 70px;
+    color: white;
+    box-shadow: 3px 5px 10px black;
+}
+.name4::first-letter{ font-size: 25px;  }
+
+.main5{
+    height: 300px;
+    width: 200px;
+    position: absolute;
+    left: 890px;
+    background-image: linear-gradient(blue, gold);
+    border: 1px solid #000000;
+    top: 9px;
+    box-shadow: 0px 0px 100px skyblue;
+    border-radius: 10px;
+}
+.boom{
+    position: absolute;
+    color: gold;
+    font-family: cursive;
+    left: 135px;
+}
+.photo5{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ZiZgfX4A5c5sTZOq_cEOzcMnT8wuy59C9Px_i1WhmxxuIO4L4VNeN7aBmg1fYQk43xk&usqp=CAU);
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+    border-radius:50%;
+    background-repeat: round;
+    left: 48px;
+    top: 5px;
+    position: absolute;
+    box-shadow: 0px 0px 70px black;
+}
+.name5{
+    font-size:  small;
+    position: absolute;
+    top: 120px;
+    left: 38px;
+    color: white;
+    font-weight: 50px;
+    box-shadow: 5px 5px 10px black;
+    font-family: sans-serif;
+}
+.box5{
+    height: 100px;
+    width: 180px;
+    border: 1px solid black;
+    position: absolute;
+    top: 190px;
+    left: 10px;
+    background-color: darkmagenta;
+    box-shadow: 0px 0px 70px black ;
+}
+.matches5{
+    top:193px ;
+    position: absolute;
+    left:14px ;
+    color: aqua;
+}
+.wickets5{
+    position: absolute;
+    top: 210px;
+    left: 14px;
+    color: aqua;
+}
+.jasprit{
+    position: absolute;
+    top: 155px;
+    left: 72px;
+    color: white;
+    box-shadow: 3px 5px 10px black;
+}
+.name5::first-letter{ font-size: 25px;  }
+
